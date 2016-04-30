@@ -1,0 +1,19 @@
+[
+  { "name": "Prioridade: Baixa",  "color": "#009800"  },
+  { "name": "Prioridade: Média",  "color": "#fbca04"  },
+  { "name": "Prioridade: Alta",  "color": "#eb6420"  },
+  { "name": "Prioridade: Crítica",  "color": "#e11d21"  },
+  { "name": "Status: Abandonada",  "color": "#000000"  },
+  { "name": "Status: Aceita",  "color": "#009800"  },
+  { "name": "Status: Disponível",  "color": "#bfe5bf"  },
+  { "name": "Status: Bloqueada",  "color": "#e11d21"  },
+  { "name": "Status: Completada",  "color": "#006b75"  },
+  { "name": "Status: Em progresso",  "color": "#cccccc"  },
+  { "name": "Status: Em espera",  "color": "#e11d21"  },
+  { "name": "Status: Pendente",  "color": "#fef2c0"  },
+  { "name": "Status: Revisão pendente",  "color": "#e11d21"  },
+  { "name": "Tipo: Bug",  "color": "#e11d21"  },
+  { "name": "Tipo: Manutenção",  "color": "#fbca04"  },
+  { "name": "Tipo: Melhoria",  "color": "#84b6eb"  },
+  { "name": "Tipo: Discussão",  "color": "#cc3171"  }
+]
